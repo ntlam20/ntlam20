@@ -1,3 +1,13 @@
+<div align="center">
+
+# Hi, I'm Lâm 👋
+
+### Software Engineer
+
+Code is poetry. Still finding my rhyme.
+
+</div>
+
 <!-- DAILY-QUOTE-START -->
 <div align="center">
 
