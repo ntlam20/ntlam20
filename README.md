@@ -2,10 +2,6 @@
 
 # Hi, I'm Lâm 👋
 
-### Software Engineer
-
-Code is poetry. Still finding my rhyme.
-
 </div>
 
 <!-- DAILY-QUOTE-START -->
